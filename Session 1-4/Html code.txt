@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DELHI CITY</title>
+    <link rel="icon" type="image/x-icon" href="favicon (1).ico">
+</head>
+<body>
+    <!--This is header 1-->
+  <h1 style="font-size 700%; text-align: center;color: crimson; font-family: 'Times New Roman', Times, serif; text-decoration: underline;">Welcome to Delhi City</h1>  
+  <!--This is header 2-->
+  <h2 style="font-size: 170%;">About Delhi</h2>
+  <!--This is a paragraph-->
+<p1> Delhi - India's Historical City! Delhi is the capital city of India and is regarded as the heart of the nation. The city is popular for its enriched culture and heritage. The city hosts some famous historical monuments and is developing with the passing of time. </p1>
+<br>
+<!--This is image-->
+<img src="mirza.jpg" width="500 ;" height="200;" align="left">
+
+<img src="images (1).jpg" width="500 ;" height="200;" align="left" >
+
+<img src="download (1).jpg" width="500 ;" height="200;"  >
+<!--This is blockquote-->
+<blockquote style="background-color:greenyellow;"cite="https://travelmelodies.com/delhi-quotes/">
+One day I asked my soul: what is Delhi? She replied: The world is the body and Delhi is its soul.
+(Ik roz apni rooh se poocha, ke dilli kya hai, toh yun jawab me keh gayi, yeh duniya maano jism hai aur dilli uski jaan)
+  </blockquote>
+<!--This is a break statement--> <br>
+ <!--This is link tag with target attribute-->
+  <a href="https://en.wikipedia.org/wiki/Delhi" target="_blank">Learn more about history of Delhi </a>
+  <!--This is Link colour tag -->
+  <style>
+    a:link {
+      color: black
+      background-color: transparent;
+      text-decoration: none;
+    }
+    
+    a:visited {
+      color: red;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    
+    a:hover {
+      color: green;
+      background-color: transparent;
+      text-decoration: underline;
+    }
+    
+    a:active {
+      color: yellow;
+      background-color: transparent;
+      text-decoration: underline;
+    }
+    </style>
+    <!--This is backgroung image tag for full body page-->
+     <style>
+        body {
+          background-image: url('pexels-ann-h-1762851.jpg');
+        
+        }
+        </style>
+    <!--This is background image tag for a paragraph-->
+
+    <style>
+        p {
+          background-image: url('https://media.gettyimages.com/photos/the-rashtrapati-bhavan-residence-of-the-president-of-india-picture-id1225175111?k=20&m=1225175111&s=612x612&w=0&h=A3DnLI080uxrI3xtrrEAc6O86ABIZue1CWrja6H805Y=');
+          background-repeat: no-repeat;
+        }
+        </style>
+        <p>You can specify background images<br>
+            for any visible HTML element.<br>
+            In this example, the background image<br>
+            is specified for a div element.<br>
+            By default, the background-image<br>
+            will repeat itself in the direction(s)<br>
+            where it is smaller than the element<br>
+            where it is specified. (Try resizing the<br>
+            browser window to see how the<br>
+            background image behaves.</p>
+      <h3 style="font: size 200%;">Delhi Population </h3>
+      <!--This is Html Table-->
+      <style>
+        table, th, td {
+          border:1px solid black;
+        }
+    
+        </style>
+        <table style="width:100%">
+            <tr>
+            <th>Population</th>
+            <th>Numbers</th>
+            <th>Literacy Rate</th>
+            </tr>
+            <tr>
+            <td>Female</td>
+            <td>7,800,615</td>
+            <td>60.87 %</td>
+            </tr>
+            <tr>
+            <td>Male</td>
+            <td>8,987,326</td>
+            <td>89.37 %</td>
+            </tr>
+        </table>
+        <h5 style="font-size: 100%;" >Visit for Delhi Tourism Packages</h5>
+        <!--This is Html Iframe-->
+        <iframe src="https://www.holidify.com/places/delhi/sightseeing-and-things-to-do.html" height="500" width="500" title="Best design page."></iframe>
+       <!--This is Html Youtube Tag-->
+        <h6 style="font-size: 300%;" >Adding a Youtube Video</h6>
+     <iframe width="420" height="315"
+src="https://www.youtube.com/embed/tgbNymZ7vqY">
+</iframe>
+
+<h6 style="font-size: 300%;" >Adding Math symbols and emojis</h6>
+<!--This is Html Symbols-->
+<p2 style= "font-size: 200%;">I will display &euro;</p2><br>
+<p3 style= "font-size: 200%;">I will display &#8364;</p3><br>
+<p4 style= "font-size: 200%;">I will display &#x20AC;</p4><br>
+<p5 style= "font-size: 200%;">I will display &#8704;</p5><br>
+<p6 style= "font-size: 200%;">I will display &forall;</p6><br>
+<p7 style= "font-size: 200%;">I will display &sum;</p7><br>
+<h6 style="font-size:200%;">Emojis</h6>
+<!--This is Html Emojis-->
+<p8 style="font-size:48px;">
+    &#128512; &#128516; &#128525; &#128151;
+    </p8>
+    <!--This Footer Tag-->
+    <style>
+        footer {
+          text-align: center;
+          padding: 3px;
+          background-color: rgb(10, 10, 10);
+          color: white;
+        }
+        </style>
+        </head>
+        <body>
+        
+        <footer>
+          <p8>Creator Contact<br>
+          <a href="mailto:hege@example.com">hege@example.com</a></p8>
+        </footer>
+    </body> 
+</html>
