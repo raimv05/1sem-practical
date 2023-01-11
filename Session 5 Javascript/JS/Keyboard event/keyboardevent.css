@@ -1,0 +1,29 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: url();
+    background-size: 500%;
+    background-position: -1600px -400px;
+}
+ 
+#form{
+    width: 250px;
+    margin: 100px auto 0 auto;
+    border: 2px solid #000;
+    border-radius: 15px;
+    padding: 25px;
+    background-color: rgba(
+        0, 0, 0, .5);
+        color: #fff;
+        box-shadow: -2px 2px 15px #000 ;
+}
+p,input{
+    font-size: 20px;
+}
+input{
+    width: 225px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #fff;
+    box-shadow: inset -2px 2px 10px #000;
+}
